@@ -25,7 +25,9 @@ Print the number of words
 
 ## PROGRAM:
 Program for getting the word count from the contents of a file using command line arguments
+
 Developed by: kabilan V
+
 RegisterNumber: 212222100018
 ```
 import sys
